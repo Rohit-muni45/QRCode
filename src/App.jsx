@@ -5,7 +5,6 @@ import { Route, Routes } from 'react-router-dom'
 import ProfileUrl from './Components/ProfileUrl'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
